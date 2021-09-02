@@ -20,13 +20,19 @@ Modifications I made while building a Voron 2.4 350 and some observations
   * Hatchbox PETG
   * Prusament PETG
 * Custom Parts
+  * Drag chain hangers
+  * Cable cover
   * CAD and STL files
 * Electronic Components
   * ADXL345 accelerometer
   * Prusa Super PINDA
+  * Extra temperature sensors
   * Hall Effect endstops
   * Tablet control panel
 * Mechanical Components
+  * Drag chains
+  * Structural Materials
+  * Corner braces
   * Swing arm for control panel
 * Formlabs Voron kit review
 * Helpful references
