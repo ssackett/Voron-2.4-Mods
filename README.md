@@ -38,4 +38,4 @@ Modifications I made while building a Voron 2.4 350 and some observations
 * Helpful references
 
 ## Klipper, a Newbee's View
-
+I had no experience with Klipper before building the Voron and so had expectations based on experience with other software packages. Many of these expectations were incorrect so I thought other newbee's might benefit from what I learned along the way. First off let me say that Klipper is extremely well organized and documented and unlike many software systems it shows the earmarks of expert design and execution.    
